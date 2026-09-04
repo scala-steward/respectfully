@@ -12,7 +12,7 @@ val compilerPlugins = List(
   crossPlugin("org.polyvariant" % "better-tostring" % "0.3.17")
 )
 
-val Scala3 = "3.8.4"
+val Scala3 = "3.9.0"
 
 ThisBuild / scalaVersion := Scala3
 
